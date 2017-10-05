@@ -1,0 +1,132 @@
+{
+    "imgText": [
+        {
+            "good_banner": [
+                {
+                    "img": "JSON/imgText/600x600_dfaa9599d8436b72ec9757c8908df7b7_600x.png"
+                },
+                {
+                    "img": "JSON/imgText/600x600_ed985fb42cfe29f42f436382a7f34809_600x.png"
+                },
+                {
+                    "img": "JSON/imgText/600x600_5f19b36e2adb22cc5f49a67c5a99f835_600x.png"
+                },
+                {
+                    "img": "JSON/imgText/600x600_201b87452d41aec6c0c6215acd90a1d8_600x.png"
+                },
+                {
+                    "img": "JSON/imgText/600x600_ddabc1384df288be29c9259a8edceea2_600x.png"
+                }
+            ]
+        },
+        {
+            "fa_time": "支付成功后72小时内",
+            "fa_express": "默认发默认百世汇通，不接受指定快递。"
+        },
+        {
+            "safe_img": "JSON/imgText/ico_picc.png",
+            "safe_text": "郑重承诺:该商品由折800与中国人保(PICC)联合承保"
+        },
+        {
+            "title_care": "注：美女们注意喽，宝贝为秋款，厚度适中，非加绒加厚款，介意勿拍哦！",
+            "title_img": [
+                {
+                    "img": "JSON/imgText/750x1650_017a73f39e96e19743424517aead5685_600x.jpg"
+                },
+                {
+                    "img": "JSON/imgText/750x1567_d50b6a55b2f06588658ae6144d2d0305_600x.jpg"
+                },
+                {
+                    "img": "JSON/imgText/750x679_bb27578df97eb343d1b49a3da0e876e7_600x.jpg"
+                },
+                {
+                    "img": "JSON/imgText/750x1478_b37399b01dbe28512f3c2f114bceabee_600x.jpg"
+                },
+                {
+                    "img": "JSON/imgText/750x1571_24ddbeb560cd7305542d8ba96fb192a0_600x.jpg"
+                },
+                {
+                    "img": "JSON/imgText/750x694_ba98218193a79652b5eb2eb34b2a0b1c_600x.jpg"
+                }
+            ]
+        }
+    ],
+    "assess": [
+        {
+            "commentInfo": {
+                "skuDesc": "颜色:蓝色<br>尺码:L<br>",
+                "userNickname": "134******77",
+                "level": 3,
+                "content": "衣服质量没得说，穿起来效果很好。大家可以放心买呀！",
+                "createTime": "2016-11-09 21:12:27",
+                "firstEvidence": "JSON/assess/720x405_caf57e320229e8250f20497a9b384572_100x100.jpg",
+                "buyerGrade": "6",
+                "category": "",
+                "categoryScore": 0,
+                "categoryType": 0,
+                "categoryAttribute": {
+                    "attribute1": "",
+                    "attribute2": "",
+                    "attribute3": "",
+                    "attribute4": "",
+                    "attribute5": ""
+                }
+            },
+            "commentStatistics": {
+                "totalNum": 122,
+                "goodCommentRate": "95.0",
+                "middleCommentRate": "4.9",
+                "negativeCommentRate": "0.1",
+                "countWithContent": 114,
+                "countWithAppend": 0,
+                "countWithPic": 7,
+                "productId": "ze161022173847366017",
+                "serviceScore": "4.89",
+                "deliverScore": "4.90",
+                "postScore": "4.92",
+                "productscore": "4.85",
+                "costPerformanceScore": "3.73",
+                "countWithCategoryTag1": 1,
+                "countWithCategoryTag2": 1,
+                "countWithCategoryTag3": 92,
+                "commentTags": [
+                    {
+                        "tagName": "有图",
+                        "tagId": 100001,
+                        "count": 7
+                    },
+                    {
+                        "tagName": "颜色好",
+                        "tagId": 100044,
+                        "count": 24
+                    },
+                    {
+                        "tagName": "穿着好看",
+                        "tagId": 100026,
+                        "count": 36
+                    },
+                    {
+                        "tagName": "质量好",
+                        "tagId": 100012,
+                        "count": 64
+                    },
+                    {
+                        "tagName": "划算",
+                        "tagId": 100094,
+                        "count": 27
+                    },
+                    {
+                        "tagName": "物流快",
+                        "tagId": 100022,
+                        "count": 13
+                    },
+                    {
+                        "tagName": "无色差",
+                        "tagId": 100038,
+                        "count": 9
+                    }
+                ]
+            }
+        }
+    ]
+}

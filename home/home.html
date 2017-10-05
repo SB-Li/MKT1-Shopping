@@ -1,0 +1,46 @@
+<div id="banner" class="swiper-container" ng-controller="homeCtrl">
+	<div class="swiper-wrapper">
+		<div class="swiper-slide" ng-repeat="x in banner"><img ng-src="{{x.ios_pic}}" /></div>
+	</div>
+	<div class="swiper-pagination">
+	</div>
+</div>
+<div  class="adv clearfix">
+	<ul>
+		<li ng-repeat="x in adv">
+			<a ui-sref="{{x.url}}">
+				<dl>
+					<dt>{{x.title}}</dt>
+					<dd>{{x.content}}</dd>
+					<dd>
+						<img ng-src="{{x.pic}}"/>
+					</dd>
+				</dl>
+			</a>
+		</li>
+	</ul>
+</div>
+<div class="recommend">
+	<p><span>精选推荐</span><span>登录后更懂你</span></p>
+	<ul>
+		<li ng-repeat="x in recommend" ui-sref="/good">
+			<dl>
+				<dt>
+					<img ng-src="{{x.si3}}"/>
+				</dt>
+				<dd>
+					<p class="recommend_p1">{{x.short_title}}</p>
+					<p class="recommend_p2">
+						<span>￥{{x.price/100}}</span>&nbsp;
+						<span>￥{{x.list_price/100}}</span>
+					</p>
+					<p class="recommend_p3">
+						<span>{{x.baoyou_text}}</span>
+						<span>已售<b>{{x.sales_count}}</b>件</span>
+						<span>特卖商城</span>
+					</p>
+				</dd>
+			</dl>
+		</li>
+	</ul>
+</div>

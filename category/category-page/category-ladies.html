@@ -1,0 +1,14 @@
+
+<ul class="category_page category_ladies" ng-repeat="x in category" data-pm="{{x.parent_url_name}}" ui-sref="{{x.url}}">
+	<li>			
+		<dl>
+			<dt>
+				<img ng-src="{{x.pic}}"/>
+			</dt>
+			<dd>{{x.category_name}}</dd>
+		</dl>			
+	</li>
+</ul>
+<div ui-view="three">
+	
+</div>

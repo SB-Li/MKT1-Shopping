@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html ng-app="app">
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/font-awesome.css"/>
+		<link rel="stylesheet" type="text/css" href="css/swiper-3.3.1.min.css"/>
+		<link rel="stylesheet" type="text/css" href="css/index.css"/>
+	</head>
+	<body>
+		<header>
+			<span class="header_span1">
+				<img src="img/scan.png"/>
+			</span>
+			<b>MKT1</b>
+			<span class="header_span2">
+				<img src="img/search.png"/>
+			</span>
+		</header>
+		<div id="main" ui-view="one">
+			
+		</div>
+		<footer>
+			<ul>
+				<li ui-sref-active="footer_over">
+					<figure ui-sref="/home">
+						<span class="fa fa-home"></span>
+						<figcaption>首页</figcaption>
+					</figure>
+				</li>
+				<li ui-sref-active="footer_over">
+					<figure ui-sref="/category">
+						<span class="fa fa-th-list"></span>
+						<figcaption>分类</figcaption>
+					</figure>
+				</li>
+				<li ui-sref-active="footer_over">
+					<figure ui-sref="/car">
+						<span class="fa fa-shopping-cart"></span>
+						<figcaption>购物车</figcaption>
+					</figure>
+				</li>
+				<li ui-sref-active="footer_over">
+					<figure ui-sref="/user">
+						<span class="fa fa-user"></span>
+						<figcaption>我的</figcaption>
+					</figure>
+				</li>
+			</ul>
+		</footer>
+		<script src="lib/angular.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="lib/angular-ui.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="lib/angular-css.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="lib/flexible.js" type="text/javascript" charset="utf-8"></script>
+		<!--<script src="lib/iscroll-probe.js" type="text/javascript" charset="utf-8"></script>-->
+		<script src="lib/swiper-3.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<!--<script src="lib/me-lazyload.js" type="text/javascript" charset="utf-8"></script>-->
+		<script src="app.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/service.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/lazy.js" type="text/javascript" charset="utf-8"></script>
+		<script src="home/js/home.js" type="text/javascript" charset="utf-8"></script>
+		<script src="category/js/category.js" type="text/javascript" charset="utf-8"></script>
+		<script src="car/js/car.js" type="text/javascript" charset="utf-8"></script>
+		<script src="user/js/user.js" type="text/javascript" charset="utf-8"></script>
+		<script src="good/js/good.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>

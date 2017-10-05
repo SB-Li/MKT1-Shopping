@@ -1,0 +1,24 @@
+app.controller('userCtrl',['$scope','$http','$location','dataService',function($scope,$http,$location,dataService){
+	$location.path('/user/login1');
+}])
+app.config(['$stateProvider',function($stateProvider){
+	$stateProvider
+		.state('/user.login1',{
+			url:'/login1',
+			views:{
+				'user_view':{
+					templateUrl:'./user/table/login1.html',
+					css:'./user/css/user.css'
+				}
+			}
+		})
+		.state('/user.login2',{
+			url:'/login2',
+			views:{
+				'user_view':{
+					templateUrl:'./user/table/login2.html',
+					css:'./user/css/user.css'
+				}
+			}
+		})
+}])

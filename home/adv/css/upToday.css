@@ -1,0 +1,120 @@
+header{
+	display: none;
+}
+#main{
+	top: 0;
+}
+.upToday-head{
+	position: fixed;
+	left: 0;
+	top: 0;
+	height: 1.2rem;
+	width: 100%;
+	background: #d81e06;
+	z-index: 2;
+}
+.upToday-head b{
+	line-height: 1.2rem;
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	font-size: 0.5rem;
+	color: white;
+}
+.upToday-head span{
+	padding: .2rem 0;
+	height: .8rem;
+	position: absolute;
+}
+.upToday-head span img{
+	height: 100%;
+	vertical-align: middle;
+}
+.upToday-all{
+	width: 100%;
+	position: absolute;
+	left: 0;
+	top: 1.2rem;
+}
+.upToday-all_p{
+	clear: both;
+	height: 0.9375rem;
+	padding: 0.15625rem 0.3125rem;
+	border-top: 0.15625rem solid #F5F5F5;
+	border-bottom: 1px solid #EEEEEE;
+	background: white;
+	display: flex;
+}
+.upToday-all_p span{
+	display: block;
+	width: 20%;
+	font-size: 0.4375rem;
+	line-height: 0.95rem;
+	text-align: center;
+	box-sizing: border-box;
+	border-right: 1px solid #D9D9D9;
+	font-family: "微软雅黑";
+}
+.upToday-all_p span:nth-child(5){
+	border-right: 1px solid white;
+}
+.upToday_goods-all{
+	clear: both;
+	background: #fff;
+}
+.upToday_goods-all li dl{
+	width: 100%;
+	display: flex;
+	flex-wrap: nowrap;
+	position: relative;
+}
+.upToday_goods-all li dt{
+	padding: 2%;
+	width: 36%;
+}
+.upToday_goods-all li img{
+	width: 100%;
+}
+.upToday_goods-all li dd{
+	width: 56%;
+	padding: 4% 2%;
+	height: 100%;
+}
+.goods-all_p1{
+	white-space: wrap;
+	font-size: 0.5rem;
+	line-height: 0.75rem;
+}
+.goods-all_p2{
+	line-height: 1rem;
+}
+.goods-all_p2 span:nth-child(1){
+	font-size: .5rem;
+	color: #e63b53;
+	font-family: "微软雅黑";
+}
+.goods-all_p2 span:nth-child(2){
+	text-decoration: line-through;
+}
+.goods-all_p3{
+	width: 56%;
+	position: absolute;
+	bottom: 4%;
+	line-height: 1rem;
+	display: flex;
+	flex-wrap: nowrap;
+}
+.goods-all_p3 span:nth-child(1){
+	display: block;
+	width: 20%;
+}
+.goods-all_p3 span:nth-child(2),
+.goods-all_p3 span:nth-child(3){
+	display: block;
+	width: 40%;
+}
+.goods-all_p3 span:nth-child(1) b,
+.goods-all_p3 span:nth-child(2) b{
+	color: #fd7d45;
+	font-weight: normal;
+}

@@ -1,0 +1,105 @@
+.category_over{
+	background: #FFFFFF;
+	border-left: 8px solid #ef4949;
+	border-bottom: 2px solid #D9D9D9;
+}
+.category_over a{
+	color: #ef4949;
+}
+.category{
+	width: 100%;
+	height: 100%;
+	display: flex;
+}
+.category_ul{
+	position: absolute;
+	left: 0;
+	top: 0;
+	overflow: auto;
+	width: 25%;
+	height: 100%;
+}
+.category_ul li{
+	height: 10%;
+	width: 100%;
+	display: table;
+	box-sizing: border-box;
+}
+.category_ul li a{
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	font-size: 0.4375rem;
+	font-family: "微软雅黑";
+}
+.category_main{
+	width: 75%;
+	background: white;
+	height: 100%;
+	position: absolute;
+	right: 0;
+	top: 0;
+	overflow: auto;
+}
+
+.category_page{
+	width: 100%;
+	display: none;
+}
+.category_ladies[data-pm='wireless1002']{
+	display: block;
+}
+.category_men[data-pm='wireless1004']{
+	display: block;
+}
+.category_shoes[data-pm='wireless1009']{
+	display: block;
+}
+.category_home[data-pm='wireless1006']{
+	display: block;
+}
+.category_beauty[data-pm='wireless3853']{
+	display: block;
+}
+.category_digital[data-pm='wireless3296']{
+	display: block;
+}
+.category_children[data-pm='wireless1011']{
+	display: block;
+}
+.category_baby[data-pm='wireless1012']{
+	display: block;
+}
+.category_bags[data-pm='wireless1010']{
+	display: block;
+}
+.category_foods[data-pm='wireless1008']{
+	display: block;
+}
+.category_bras[data-pm='wireless1003']{
+	display: block;
+}
+.category_textiles[data-pm='wireless1005']{
+	display: block;
+}
+.category_accessories[data-pm='wireless1013']{
+	display: block;
+}
+.category_motion[data-pm='wireless1015']{
+	display: block;
+}
+.category_elderly[data-pm='wireless3469']{
+	display: block;
+}
+.category_page li{
+	width: 25.33%;
+	float: left;
+	padding: 4%;
+}
+.category_page li img{
+	width: 100%;
+}
+.category_page dd{
+	text-align: center;
+	line-height: 0.5rem;
+}

@@ -1,0 +1,529 @@
+{
+    "banner": [
+        {
+            "id": 5065,
+            "title": "11.11全民狂欢节",
+            "point": "17",
+            "data": "http://hd.zhe800.com/xindacu/app/zhc1111",
+            "ios_pic": "JSON/banner/640x244.5f91c2adce3ef22923bebfd45353435c.jpg",
+            "sort_type": 1
+        },
+        {
+            "id": 4851,
+            "title": "阿迪达斯",
+            "point": "17",
+            "data": "http://hd.zhe800.com/xindacu/app/dppadds1110",
+            "ios_pic": "JSON/banner/640x244.74ba5a7a56bb4bddbf9caab113656a18.jpg",
+            "sort_type": 2
+        },
+        {
+            "id": 4853,
+            "title": "李宁",
+            "point": "17",
+            "data": "http://hd.zhe800.com/xindacu/app/dppln1112",
+            "ios_pic": "JSON/banner/640x244.438cdaf1676cd1c4feb1287a6cd3ea40.jpg",
+            "sort_type": 3
+        },
+        {
+            "id": 4757,
+            "title": "运动鞋专场",
+            "point": "17",
+            "data": "http://hd.zhe800.com/xindacu/app/ppdcyundongxie1111",
+            "ios_pic": "JSON/banner/640x244.34226f50d75e3b28045729fa508a3449.jpg",
+            "sort_type": 4
+        },
+        {
+            "id": 4855,
+            "title": "乐视",
+            "point": "17",
+            "data": "http://hd.zhe800.com/xindacu/app/dppls1110",
+            "ios_pic": "JSON/banner/640x244.0857147ff0337d7d128fdb8d32c52330.jpg",
+            "sort_type": 5
+        },
+        {
+            "id": 4843,
+            "title": "COACH",
+            "point": "17",
+            "data": "http://hd.zhe800.com/xindacu/app/cjpprkc1110",
+            "ios_pic": "JSON/banner/640x244.a0fb2d90340466541ffef7022632ea91.jpg",
+            "sort_type": 6
+        }
+    ],
+    "adv": [
+        {
+            "title": "今日更新",
+            "content": "每日\n9:00更新",
+            "pic": "JSON/adv/wireless189__144_0758690182.png",
+            "point": 0,
+            "url": "/upToday",
+            "homekey": 1
+        },
+        {
+            "title": "每日十件",
+            "content": "起床的理由",
+            "pic": "JSON/adv/220x220.752df3c1bfe8ed45d16aa4564261b8aa.png",
+            "point": 0,
+            "url": "/upToday",
+            "homekey": 2
+        },
+        {
+            "title": "精选预告",
+            "content": "好货早收藏",
+            "pic": "JSON/adv/wireless__189_1440758741986.png",
+            "point": 0,
+            "url": "/upToday",
+            "homekey": 3
+        },
+        {
+            "title": "手机周边",
+            "content": "只为您\n私人订制",
+            "pic": "JSON/adv/wireless__189_1440758770949.png",
+            "point": 0,
+            "url": "/upToday",
+            "homekey": 4
+        },
+        {
+            "title": "8块8包邮",
+            "content": "全场最低价",
+            "pic": "JSON/adv/wireless__189_1440758801883.png",
+            "point": 0,
+            "url": "/upToday",
+            "homekey": 5
+        },
+        {
+            "title": "值得逛",
+            "content": "潮流最前线",
+            "pic": "JSON/adv/icon2_01.jpg",
+            "point": 0,
+            "url": "/upToday",
+            "homekey": 6
+        },
+        {
+            "title": "0元抽奖",
+            "content": "万一中了呢！",
+            "pic": "JSON/adv/icon2_02.jpg",
+            "point": 0,
+            "url": "/upToday",
+            "homekey": 7
+        },
+        {
+            "title": "优品汇",
+            "content": "97%超高\n好评率！",
+            "pic": "JSON/adv/icon2_03.jpg",
+            "point": 1,
+            "url": "/upToday",
+            "homekey": 8
+        },
+        {
+            "title": "特卖商城",
+            "content": "海量好货抢抢抢",
+            "pic": "JSON/adv/icon2_04.jpg",
+            "point": 1,
+            "url": "/upToday",
+            "homekey": 11
+        }
+    ],
+    "recommend": [
+        {
+            "id": 8922815,
+            "title": "韩版中长款呢子大衣纯色休闲青年毛呢风衣英伦秋冬时尚外套潮",
+            "short_title": "韩版中长款纯色毛呢时尚大衣",
+            "list_price": 39900,
+            "price": 7800,
+            "sales_count": 264,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/800x800.c8be4fdd2c50029bbf4d3c42bc53d47a.380x380.jpg"
+        },
+        {
+            "id": 8468083,
+            "title": "皇家澳尔夫 针织衫男2016秋冬新款 韩版修身菱形方块套头毛衫",
+            "short_title": "男士提花大码针织衫",
+            "list_price": 19900,
+            "price": 6900,
+            "sales_count": 484,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/700x700.081a9af1deb97b2ca0e671cfa551a5a8.380x380.jpg"
+        },
+        {
+            "id": 8568071,
+            "title": "控油祛痘祛黑头净肌收毛孔绿泥矿物泥浆面膜 WIS绿泥抗痘面膜",
+            "short_title": "WIS绿泥抗痘面膜",
+            "list_price": 31500,
+            "price": 9600,
+            "sales_count": 300,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/600x600.e6ff0936379292a616994277ca7eb66f.380x380.jpg"
+        },
+        {
+            "id": 8568087,
+            "title": "WIS水润面膜套装24片 祛痘补水控油保湿淡痘印收缩毛孔面膜贴男女",
+            "short_title": "WIS水润面膜套装24片",
+            "list_price": 29900,
+            "price": 9800,
+            "sales_count": 617,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/600x600.4568fa9db4c128076541317ddb0d111f.380x380.jpg"
+        },
+        {
+            "id": 8568091,
+            "title": "WIS去痘印净化凝胶 18g 去男女士痘印 修护淡化痘印",
+            "short_title": "WIS去痘印净化凝胶 18g",
+            "list_price": 17500,
+            "price": 8200,
+            "sales_count": 241,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/600x600.942e4a031e0f84c042aa749508ef9012.380x380.jpg"
+        },
+        {
+            "id": 8534099,
+            "title": "VKWEIKU磁石+远红外能量保暖内衣套装 男女情侣款式圆领加绒加厚",
+            "short_title": "磁石远红外能量男女保暖内衣套装",
+            "list_price": 39800,
+            "price": 19800,
+            "sales_count": 64,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/700x700.7e19883dc29a3fe9d83abf02cd2c58be.380x380.jpg"
+        },
+        {
+            "id": 9040557,
+            "title": "2人组2016冬季男装棉衣男短款修身新款男士棉服潮",
+            "short_title": "冬季男装短款修身棉衣潮",
+            "list_price": 49900,
+            "price": 15800,
+            "sales_count": 23,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/800x800.a689a748d9d9c373e54027c8a58b67fb.380x380.jpg"
+        },
+        {
+            "id": 9042733,
+            "title": "2人组2016新款秋冬季加厚韩版男装棉衣迷彩拼色外套夹克衣服潮",
+            "short_title": "男装棉衣迷彩拼色外套夹克衣服潮",
+            "list_price": 39900,
+            "price": 15900,
+            "sales_count": 9,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/800x800.789172d35b1e3dc4307704e45894836f.380x380.jpg"
+        },
+        {
+            "id": 9040457,
+            "title": "2人组棉衣2016新款冬装韩版潮男装外套男士棉袄青年冬天棉服",
+            "list_price": 39900,
+            "price": 15900,
+            "sales_count": 15,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/700x700.96737a89bf47c2717a09da8dcf22f7de.380x380.jpg"
+        },
+        {
+            "id": 5386957,
+            "title": "友臣肉松饼整箱1.25kg 闽南特产糕点心 早餐零食品",
+            "short_title": "友臣肉松饼整箱1250g",
+            "list_price": 6800,
+            "price": 3600,
+            "sales_count": 3458,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/800x800.79122b7cb00e485bfe00bd2c343eb6d1.380x380.jpg"
+        },
+        {
+            "id": 8862595,
+            "title": "蒂妃雅阁皮草系列貉子毛领兔毛整皮剪花皮草外套中老年妈妈装",
+            "short_title": "高贵加丝貉子毛领皮套外套",
+            "list_price": 99800,
+            "price": 57800,
+            "sales_count": 30,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/800x800.93978f4d9cfb494c0fa42d062974402b.380x380.jpg"
+        },
+        {
+            "id": 8568955,
+            "title": "乐视TV/Letv 超4X40/X4-40智能超清网络液晶彩色超级电视机40寸",
+            "short_title": "乐视 超4X40 智能超级电视",
+            "list_price": 399900,
+            "price": 179800,
+            "sales_count": 15,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/800x800.1828ca49d2c835f60effefa862b6aa78.380x380.jpg"
+        },
+        {
+            "id": 8172671,
+            "title": "Huawei/华为G9 青春版全网通4G智能手机 原装正品现货送好礼",
+            "short_title": "华为G9青春版 原装正品送好礼",
+            "list_price": 149900,
+            "price": 113800,
+            "sales_count": 37,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/600x600.80dfe2460e2b27f3732dde850051c46b.380x380.jpg"
+        },
+        {
+            "id": 8172019,
+            "title": "Meizu/魅族 MX6 全网通4G智能指纹手机",
+            "short_title": "魅族MX6全网通 月光银/玫瑰金",
+            "list_price": 199900,
+            "price": 149900,
+            "sales_count": 106,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/700x700.7db27843c81301e13c23c846d74a2683.380x380.jpg"
+        },
+        {
+            "id": 8964837,
+            "title": "中式亚克力吸顶灯仿古实木LED卧室灯圆形无极客厅灯茶楼会所灯饰",
+            "short_title": "古典中式实木亚克力LED吸顶灯",
+            "list_price": 46000,
+            "price": 25800,
+            "sales_count": 6,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/800x800.763d2d8976d1042f27ba9c979b0e024f.380x380.jpg"
+        },
+        {
+            "id": 8172161,
+            "title": "Xiaomi/小米 红米3S 全网通4G 双卡双待 1300W像素",
+            "short_title": "小米红米3S智能手机",
+            "list_price": 79800,
+            "price": 69900,
+            "sales_count": 116,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/700x700.d6394949c81081ff082922224d3848ae.380x380.jpg"
+        },
+        {
+            "id": 8645217,
+            "title": "秋冬款男士黑色修身牛仔裤",
+            "short_title": "秋冬款男士黑色修身牛仔裤",
+            "list_price": 19900,
+            "price": 4990,
+            "sales_count": 1280,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/600x600.fa3f57f7243b36237c4012c28d5059b5.380x380.jpg"
+        },
+        {
+            "id": 3214085,
+            "title": "【优品汇】菲比纸尿裤M92/L84/XL76",
+            "short_title": "【优品汇】菲比纸尿裤M92/L84/XL76",
+            "list_price": 30000,
+            "price": 6280,
+            "sales_count": 4108,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/700x700.c55c61ae165dbd60e6b6b1d3e3415044.380x380.jpg"
+        },
+        {
+            "id": 8479805,
+            "title": "2016秋冬男士保暖卫衣青少年休闲外套男加绒加厚连帽运动服男外套",
+            "short_title": "男士秋冬连帽保暖卫衣青少年外套",
+            "list_price": 13800,
+            "price": 4990,
+            "sales_count": 177,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/1200x1200.7514b424ef00431f8298ab40a610ac5d.380x380.jpg"
+        },
+        {
+            "id": 8569071,
+            "title": "乐视TV/Letv 超4X43/X4-43智能超清网络液晶彩色超级电视机43寸",
+            "short_title": "乐视 超4X43 智能超级电视",
+            "list_price": 399900,
+            "price": 189800,
+            "sales_count": 16,
+            "baoyou_text": "包邮",
+            "si3": "JSON/recommend/800x800.f25d68972a79d72db38f3bfa7ac033e4.380x380.jpg"
+        }
+    ],
+    "upToday": [
+        {
+            "id": 8887541,
+            "title": "上海张小泉 泉字牌 不锈钢双圈旅行剪 888 折叠剪 便携剪 垂钓剪",
+            "short_title": "张小泉折叠旅行剪",
+            "list_price": 1900,
+            "price": 990,
+            "sales_count": 264,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/700x700.cae5af5210b3cb2972fdfbb6e2937c07.260x260.jpg"
+        },
+        {
+            "id": 8887497,
+            "title": "张小泉剪刀旅行剪 便携折叠家庭用剪 剪渔线 333旅行剪",
+            "short_title": "张小泉经典款折叠旅行剪",
+            "list_price": 900,
+            "price": 890,
+            "sales_count": 484,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/700x700.f7b9c2ff025f5bc376f969d5f4009c77.260x260.jpg"
+        },
+        {
+            "id": 8887509,
+            "title": "张小泉剪刀 龙凤合金剪 家用剪刀 剪彩剪 结婚剪",
+            "short_title": "张小泉家用剪刀",
+            "list_price": 1400,
+            "price": 1400,
+            "sales_count": 300,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/700x700.1c793f127731d253a068362bb0a163b5.260x260.jpg"
+        },
+        {
+            "id": 9144427,
+            "title": "多功能筷子筒沥水筷子架厨房筷子盒挂式餐具刀具架塑料筷子笼筷筒",
+            "short_title": "樱尚居多功能沥水筷子筒塑料刀架",
+            "list_price": 1990,
+            "price": 990,
+            "sales_count": 617,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/700x700.574614f9d424d14ccf9f9ad49d5b9222.260x260.jpg"
+        },
+        {
+            "id": 9262557,
+            "title": "初晨打底裤女春秋薄款2016春装新款小脚裤铅笔裤高腰显瘦弹力女裤",
+            "short_title": "初晨打底裤女春秋薄款",
+            "list_price": 10000,
+            "price": 2900,
+            "sales_count": 241,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/800x800.973e8e35db521992e6227691370090f9.260x260.jpg"
+        },
+        {
+            "id": 9047629,
+            "title": "2016新款长袖连衣裙韩版修身蕾丝拼接印花中裙A字裙子",
+            "short_title": "韩版修身蕾丝拼接印花中裙",
+            "list_price": 19800,
+            "price": 2490,
+            "sales_count": 64,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/600x600.dfaa9599d8436b72ec9757c8908df7b7.260x260.png"
+        },
+        {
+            "id": 9177889,
+            "title": "雨丝梦创意黑胶太阳伞女士潮流印花防晒伞防紫外线小黑伞遮阳伞",
+            "short_title": "雨丝梦创意黑胶小黑伞",
+            "list_price": 19900,
+            "price": 2990,
+            "sales_count": 23,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/700x700.50acd4313cd84aa104383f8777931c11.260x260.jpg"
+        },
+        {
+            "id": 9262585,
+            "title": "初晨哈伦裤女2016春装新款 韩版潮大码休闲裤显瘦小脚长裤",
+            "short_title": "秋季舒适休闲长裤哈伦裤",
+            "list_price": 3900,
+            "price": 2590,
+            "sales_count": 9,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/700x700.eb5982a406abd963c3c395e430457bad.260x260.jpg"
+        },
+        {
+            "id": 9262741,
+            "title": "2016新款高领打底衫女百搭长袖加绒加厚显瘦修身中长款秋装大码潮",
+            "short_title": "高领长袖加绒加厚打底衫 显瘦",
+            "list_price": 19800,
+            "price": 2990,
+            "sales_count": 15,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/600x600.0573217c74b5a15d59f9c56e3b2d1e84.260x260.jpg"
+        },
+        {
+            "id": 9047567,
+            "title": "秋季款轻盈立领星星印花雪纺衬衫",
+            "short_title": "轻盈立领星星印花雪纺衬衫",
+            "list_price": 19800,
+            "price": 1590,
+            "sales_count": 3458,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/800x800.60b923ea253ca2931a8f99c4399b93ab.260x260.jpg"
+        },
+        {
+            "id": 9177893,
+            "title": "雨丝梦韩版七星花太阳伞防紫外线遮阳伞防晒四折黑胶晴雨伞",
+            "short_title": "雨丝梦韩版七星花晴雨伞",
+            "list_price": 9900,
+            "price": 2890,
+            "sales_count": 30,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/700x700.24027a592bbaf4b41a58d762f21fa5d4.260x260.jpg"
+        },
+        {
+            "id": 9267139,
+            "title": "秋装新款POLO领刺绣长袖衬衫",
+            "short_title": "修身刺绣衬衫",
+            "list_price": 28800,
+            "price": 1990,
+            "sales_count": 15,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/800x800.156d846cbcf1dcd66263f6bf0e039e19.260x260.jpg"
+        },
+        {
+            "id": 9262453,
+            "title": "初晨秋装休闲裤 2016春秋新款潮裤子女长裤韩版潮大码显瘦小脚裤",
+            "short_title": "初晨秋装休闲裤",
+            "list_price": 10000,
+            "price": 2500,
+            "sales_count": 37,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/600x600.a28c484842389742a6cf5a30fb8f4f18.260x260.jpg"
+        },
+        {
+            "id": 9262471,
+            "title": "初晨皮裤短裤女秋冬款靴裤休闲短裤宽松PU皮拼接 2015新款皮裤",
+            "short_title": "PU皮高腰短裤",
+            "list_price": 6900,
+            "price": 2990,
+            "sales_count": 106,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/800x800.ebbae59af33a3a75677c56c94c3524fa.260x260.jpg"
+        },
+        {
+            "id": 9262503,
+            "title": "初晨打底裤女外穿薄款高腰小脚裤铅笔裤松紧腰黑色长裤",
+            "short_title": "初晨打底裤女外穿",
+            "list_price": 10000,
+            "price": 2900,
+            "sales_count": 6,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/700x700.74fd59f0f719f435246fb9f298935bd3.260x260.jpg"
+        },
+        {
+            "id": 9262509,
+            "title": "初晨皮裤女高腰秋冬新款韩版靴裤休闲宽松PU皮拉链短裤阔腿裤",
+            "short_title": "初晨皮短裤女",
+            "list_price": 11000,
+            "price": 2990,
+            "sales_count": 116,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/700x700.c3d3dc2eaac6b6ab52ec1353e2a736d9.260x260.jpg"
+        },
+        {
+            "id": 9262515,
+            "title": "初晨哈伦裤女2016秋装新款 韩版潮大码休闲裤显瘦小脚长裤",
+            "short_title": "初晨哈伦裤女大码休闲裤",
+            "list_price": 3900,
+            "price": 2980,
+            "sales_count": 1280,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/700x700.65cf42048c6dca82a852f7b75f8590f8.260x260.jpg"
+        },
+        {
+            "id": 9262555,
+            "title": "初晨外穿打底裤女 2016新款高腰休闲裤韩版潮大码显瘦小脚裤",
+            "short_title": "顺滑垂感西裤休闲裤",
+            "list_price": 10000,
+            "price": 2500,
+            "sales_count": 4108,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/700x700.35f6f9004eb8ebf7e1bada6eac5d88f1.260x260.jpg"
+        },
+        {
+            "id": 9047565,
+            "title": "2016新款韩版宽松显瘦 纯色立体圆点假口袋连衣裙",
+            "short_title": "纯色立体圆点假口袋连衣裙",
+            "list_price": 19800,
+            "price": 2290,
+            "sales_count": 177,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/600x600.1d71fd0cc534c72af431e286b1fed63b.260x260.jpg"
+        },
+        {
+            "id": 9247051,
+            "title": "2016新款蕾丝拼接长袖气质时尚修身连衣裙A字显瘦打底裙女装",
+            "short_title": "蕾丝拼接长袖气质时尚修身连衣裙",
+            "list_price": 19800,
+            "price": 2390,
+            "sales_count": 16,
+            "baoyou_text": "包邮",
+            "square_image": "JSON/upToday/600x600.3bce26e49c158b4303fc0c947f2336c0.260x260.jpg"
+        }
+    ]
+}

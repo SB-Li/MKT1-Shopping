@@ -1,0 +1,153 @@
+header{
+	display: none;
+}
+#main{
+	top: 0;
+}
+.car-head{
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 1.2rem;
+	width: 100%;
+	background: #d81e06;
+	z-index: 2;
+}
+.car-head b{
+	line-height: 1.2rem;
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	font-size: 0.5rem;
+	color: white;
+}
+.car-head span{
+	padding: .2rem 0;
+	height: .8rem;
+	position: absolute;
+}
+.car-head span img{
+	height: 100%;
+	vertical-align: middle;
+}
+.car-all{
+	width: 100%;
+	position: absolute;
+	left: 0;
+	top: 1.2rem;
+}
+.car_ul{
+	display: none;
+}
+.car_page{
+	width: 100%;
+	display: none;
+}
+.car_ladies[data-pm='wireless1002']{
+	display: block;
+}
+.car_men[data-pm='wireless1004']{
+	display: block;
+}
+.car_shoes[data-pm='wireless1009']{
+	display: block;
+}
+.car_home[data-pm='wireless1006']{
+	display: block;
+}
+.car_beauty[data-pm='wireless3853']{
+	display: block;
+}
+.car_digital[data-pm='wireless3296']{
+	display: block;
+}
+.car_children[data-pm='wireless1011']{
+	display: block;
+}
+.car_baby[data-pm='wireless1012']{
+	display: block;
+}
+.car_bags[data-pm='wireless1010']{
+	display: block;
+}
+.car_foods[data-pm='wireless1008']{
+	display: block;
+}
+.car_bras[data-pm='wireless1003']{
+	display: block;
+}
+.car_textiles[data-pm='wireless1005']{
+	display: block;
+}
+.car_accessories[data-pm='wireless1013']{
+	display: block;
+}
+.car_motion[data-pm='wireless1015']{
+	display: block;
+}
+.car_elderly[data-pm='wireless3469']{
+	display: block;
+}
+.car_page li{
+	width: 17%;
+	float: left;
+	padding: 4%;
+	background: #fff;
+}
+.car_page li img{
+	width: 100%;
+}
+.car_page dd{
+	text-align: center;
+	line-height: 0.5rem;
+}
+.car-all ul:nth-child(1){
+	display: none;
+}
+.car_ladies-all{
+	background: #fff;
+}
+.car_ladies-all li dl{
+	width: 100%;
+	display: flex;
+	flex-wrap: nowrap;
+	position: relative;
+}
+.car_ladies-all li dt{
+	padding: 2%;
+	width: 36%;
+}
+.car_ladies-all li img{
+	width: 100%;
+}
+.car_ladies-all li dd{
+	width: 56%;
+	padding: 4% 2%;
+	height: 100%;
+}
+.ladies-all_p1{
+	white-space: wrap;
+	font-size: 0.5rem;
+	line-height: 0.75rem;
+}
+.ladies-all_p2{
+	line-height: 1rem;
+}
+.ladies-all_p2 span:nth-child(1){
+	font-size: .5rem;
+	color: #e63b53;
+	font-family: "微软雅黑";
+}
+.ladies-all_p2 span:nth-child(2){
+	text-decoration: line-through;
+}
+.ladies-all_p4{
+	width: 1rem;
+	position: absolute;
+	right: 10%;
+	bottom: 25%;
+}
+.ladies-all_p4 img{
+	width: 100%;
+}

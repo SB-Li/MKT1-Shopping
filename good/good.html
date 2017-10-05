@@ -1,0 +1,95 @@
+<p class="good-head">
+	<span class="header_span1" ui-sref="/home">
+		<img src="img/left.png"/>
+	</span>
+	<b>商品详情</b>
+	<span class="header_span2" ui-sref="/home">
+		<img src="img/home.png"/>
+	</span>
+</p>
+<div class="good">
+	<div id="good_banner" class="swiper-container" ng-controller="goodCtrl">
+		<div class="swiper-wrapper">
+			<div class="swiper-slide" ng-repeat="x in good_banner"><img   ng-src="{{x.img}}" /></div>
+		</div>
+		<div class="swiper-pagination">
+		</div>
+	</div>
+	<div class="good_mes">
+		<div class="good_mes_title">
+			<div class="good_mes_price">
+				<p>2016新款长袖连衣裙韩版修身蕾丝拼接印花中裙A字裙子</p>
+				<p><b>￥24.9</b><i>包邮</i></p>
+				<p>价格￥<i>198</i></p>
+			</div>
+			<div class="good_mes_attr">
+				<span>积分可抵 ¥1.45</span><span>江苏南京</span>
+			</div>
+			<div class="good_mes_s">
+				<span>
+					<b class="fa fa-clock-o"></b><i>72小时发货</i>
+				</span>
+				<span>
+					<b class="fa fa-minus-circle"></b><i>人工质检</i>
+				</span>
+				<span>
+					<b class="fa fa-exclamation-circle"></b><i>8天包退</i>
+				</span>
+				<span>
+					<i class="fa fa-angle-right"></i>
+				</span>
+			</div>
+		</div>
+		<div class="good_com">
+			<p class="good_com_head"><span>共<b>{{commentStatistics.totalNum}}</b>人参与评分</span><span>好评率：<b>{{commentStatistics.goodCommentRate}}%</b></span></p>
+			<div class="good_com_rate">
+				<span ng-repeat="x in commentTags">{{x.tagName}}({{x.count}})</span>
+			</div>
+			<div class="good_com_user">
+				<p>
+					<span>{{commentInfo.userNickname}}</span>
+					<span>{{commentInfo.createTime}}</span>
+				</p>
+				<p>{{commentInfo.content}}</p>
+				<p>{{commentInfo.skuDesc}}</p>
+				<p><img ng-src="{{commentInfo.firstEvidence}}"/></p>
+				<p><span>查看全部评价</span></p>
+			</div>
+		</div>
+	</div>
+	<div class="good_imgText">
+		<p class="good_imgText_head">图文详情</p>
+		<div class="good_imgText_tit">
+			<p>发货快递</p>
+			<p>
+				<span>发货时间：{{imgText[1].fa_time}}</span>
+				<span>发货快递：{{imgText[1].fa_express}}</span>
+			</p>
+			<p>
+				<img ng-src="{{imgText[2].safe_img}}"/>
+				<span>{{imgText[2].safe_text}}</span>
+			</p>
+			<p>
+				<span>{{imgText[3].title_care}}</span>
+				<img ng-repeat="x in imgText[3].title_img" ng-src="{{x.img}}"/>
+			</p>
+		</div>
+	</div>
+</div>
+<p class="good-footer">
+	<span class="footer_span1" ui-sref="/home">
+		<img src="img/mes.png"/>
+		<i>商家</i>
+	</span>
+	<span class="footer_span2" ui-sref="/home">
+		<img src="img/shop.png"/>
+		<i>专场</i>
+	</span>
+	<span class="footer_span3" ui-sref="/home">
+		<img src="img/car.png"/>
+		<i>购物车</i>
+	</span>
+	<span class="footer_span4" ui-sref="/home">
+		<b>加入购物车</b>
+	</span>
+</p>

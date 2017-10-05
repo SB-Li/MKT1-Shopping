@@ -1,0 +1,42 @@
+<p class="car-head">
+	<span class="header_span1" ui-sref="/category.ladies">
+		<img src="img/left.png"/>
+	</span>
+	<b>购物车</b>
+	<span class="header_span2" ui-sref="/home">
+		<img src="img/home.png"/>
+	</span>
+</p>
+<div class="car-all">
+	<ul class="car_page car_ladies" ng-repeat="x in category" data-pm="{{x.parent_url_name}}">
+		<li>			
+			<dl>
+				<dt>
+					<img ng-src="{{x.pic}}"/>
+				</dt>
+				<dd>{{x.category_name}}</dd>
+			</dl>			
+		</li>
+	</ul>
+	<p class="car-all_p">
+	</p>
+	<ul class="car_ladies-all">
+		<li ng-repeat="x in ladies">
+			<dl>
+				<dt>
+					<img ng-src="{{x.square_image}}"/>
+				</dt>
+				<dd>
+					<p class="ladies-all_p1">{{x.short_title}}</p>
+					<p class="ladies-all_p2">
+						<span>￥{{x.price/100}}</span>
+						<span>￥{{x.list_price/100}}</span>
+					</p>
+					<p class="ladies-all_p4" ng-click="removeCar(x)">
+						<img src="img/remove.png"/>
+					</p>
+				</dd>
+			</dl>
+		</li>
+	</ul>
+</div>

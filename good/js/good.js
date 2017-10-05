@@ -1,0 +1,13 @@
+app.controller('goodCtrl',["$scope",'$http','dataService','$timeout','$location',function($scope,$http,dataService,$timeout,$location){
+	$http.get('JSON/goods.json')
+		.success(function(req){
+			dataService.goodData=req;
+			$scope.good_banner=dataService.goodData.imgText[0].good_banner;
+			$scope.commentStatistics=dataService.goodData.assess[0].commentStatistics;
+			$scope.commentTags=dataService.goodData.assess[0].commentStatistics.commentTags;
+			$scope.commentInfo=dataService.goodData.assess[0].commentInfo;
+			$scope.imgText=dataService.goodData.imgText;
+			$timeout(dataService.swipe,1000);
+			console.log($location.absUrl())
+		})
+}])
